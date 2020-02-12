@@ -51,10 +51,10 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
 
 <style>
 
-.gs-section-01 h3 { 
+.gs-section-01 { 
      color: red }
 
-.gs-section-01 p {
+.gs-section-01 {
      font-size: 30px;
 }
 
