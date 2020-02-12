@@ -31,9 +31,13 @@ Fork the [repository](https://github.com/daattali/beautiful-jekyll) by clicking 
 
 </div>
 
+<div class="gs-section-02">
+
 ### 2. Rename the repository to `yourusername.github.io`
 
 This will create a GitHub User page ready with the **Beautiful Jekyll** template that will be available at http://yourusername.github.io (sometimes it takes a few minutes).
+
+</div>
 
 ### 3. Customize settings
 
@@ -55,7 +59,14 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
      color: red }
 
 .gs-section-01 p {
-     font-size: 100px;
+     font-size: 30px;
+}
+
+.gs-section-02 h3 {
+    color: blue }
+  
+.gs-section-02 p {
+    font-size: 30px;
 }
 
 </style>
