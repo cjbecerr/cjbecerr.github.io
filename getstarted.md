@@ -25,7 +25,7 @@ Here is a 40-second video showing how to get started, with the specific steps be
 
 ---
 
-<div class="gs-section-01">
+<div class="gs-section-01" markdown="1">
 
 ### 1. Fork the Beautiful Jekyll repository 
 
@@ -54,6 +54,7 @@ Edit the `_config.yml` file to change all the settings to reflect your site.  Th
 You can now visit your shiny new website, which will be seeded with several sample blog posts and a couple other pages.
 
 </div>
+
 ---
 
 See how easy that is? I wasn't lying - it really can be done in two minutes.
